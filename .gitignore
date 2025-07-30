@@ -1,0 +1,19 @@
+# python artifacts
+__pycache__/
+*.pyc
+
+# pipenv venv
+.venv/
+Pipfile.lock
+
+# sqlite database
+*.db
+
+# log files
+*.log
+
+# env files
+.env
+
+# macOS
+.DS_Store
